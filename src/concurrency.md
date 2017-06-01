@@ -192,26 +192,26 @@ Lastly, collects calculation results via [`mpsc::channel`] with [`Receiver::recv
 
 <!-- Categories -->
 
-[cat-concurrency-badge]: https://badge-cache.kominick.com/badge/concurrency--x.svg?style=social
+[cat-concurrency-badge]: http://localhost:3000/badge/concurrency--x.svg?style=social
 [cat-concurrency]: https://crates.io/categories/concurrency
-[cat-rendering-badge]: https://badge-cache.kominick.com/badge/rendering--x.svg?style=social
+[cat-rendering-badge]: http://localhost:3000/badge/rendering--x.svg?style=social
 [cat-rendering]: https://crates.io/categories/rendering
-[cat-science-badge]: https://badge-cache.kominick.com/badge/science--x.svg?style=social
+[cat-science-badge]: http://localhost:3000/badge/science--x.svg?style=social
 [cat-science]: https://crates.io/categories/science
 
 <!-- Crates -->
 
-[crossbeam-badge]: https://badge-cache.kominick.com/crates/v/crossbeam.svg?label=crossbeam
+[crossbeam-badge]: http://localhost:3000/crates/v/crossbeam.svg?label=crossbeam
 [crossbeam]: https://docs.rs/crossbeam/
-[image-badge]: https://badge-cache.kominick.com/crates/v/image.svg?label=image
+[image-badge]: http://localhost:3000/crates/v/image.svg?label=image
 [image]: https://docs.rs/image/
-[num-badge]: https://badge-cache.kominick.com/crates/v/num.svg?label=num
+[num-badge]: http://localhost:3000/crates/v/num.svg?label=num
 [num]: https://docs.rs/num/
-[num_cpus-badge]: https://badge-cache.kominick.com/crates/v/num_cpus.svg?label=num_cpus
+[num_cpus-badge]: http://localhost:3000/crates/v/num_cpus.svg?label=num_cpus
 [num_cpus]: https://docs.rs/num_cpus/
-[rayon-badge]: https://badge-cache.kominick.com/crates/v/rayon.svg?label=rayon
+[rayon-badge]: http://localhost:3000/crates/v/rayon.svg?label=rayon
 [rayon]: https://docs.rs/rayon/
-[threadpool-badge]: https://badge-cache.kominick.com/crates/v/threadpool.svg?label=threadpool
+[threadpool-badge]: http://localhost:3000/crates/v/threadpool.svg?label=threadpool
 [threadpool]: https://docs.rs/threadpool/
 
 <!-- Reference -->

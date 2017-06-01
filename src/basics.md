@@ -410,35 +410,35 @@ fn run() -> Result<()> {
 
 <!-- Categories -->
 
-[cat-caching-badge]: https://badge-cache.kominick.com/badge/caching--x.svg?style=social
+[cat-caching-badge]: http://localhost:3000/badge/caching--x.svg?style=social
 [cat-caching]: https://crates.io/categories/caching
-[cat-encoding-badge]: https://badge-cache.kominick.com/badge/encoding--x.svg?style=social
+[cat-encoding-badge]: http://localhost:3000/badge/encoding--x.svg?style=social
 [cat-encoding]: https://crates.io/categories/encoding
-[cat-filesystem-badge]: https://badge-cache.kominick.com/badge/filesystem--x.svg?style=social
+[cat-filesystem-badge]: http://localhost:3000/badge/filesystem--x.svg?style=social
 [cat-filesystem]: https://crates.io/categories/filesystem
-[cat-science-badge]: https://badge-cache.kominick.com/badge/science--x.svg?style=social
+[cat-science-badge]: http://localhost:3000/badge/science--x.svg?style=social
 [cat-science]: https://crates.io/categories/science
-[cat-os-badge]: https://badge-cache.kominick.com/badge/OS--x.svg?style=social
+[cat-os-badge]: http://localhost:3000/badge/OS--x.svg?style=social
 [cat-os]: https://crates.io/categories/os
-[cat-rust-patterns-badge]: https://badge-cache.kominick.com/badge/rust_patterns--x.svg?style=social
+[cat-rust-patterns-badge]: http://localhost:3000/badge/rust_patterns--x.svg?style=social
 [cat-rust-patterns]: https://crates.io/categories/rust-patterns
-[cat-text-processing-badge]: https://badge-cache.kominick.com/badge/text_processing--x.svg?style=social
+[cat-text-processing-badge]: http://localhost:3000/badge/text_processing--x.svg?style=social
 [cat-text-processing]: https://crates.io/categories/text-processing
 
 <!-- Crates -->
 
-[byteorder-badge]: https://badge-cache.kominick.com/crates/v/byteorder.svg?label=byteorder
+[byteorder-badge]: http://localhost:3000/crates/v/byteorder.svg?label=byteorder
 [byteorder]: https://docs.rs/byteorder/
 [lazy_static]: https://docs.rs/lazy_static/
-[lazy_static-badge]: https://badge-cache.kominick.com/crates/v/lazy_static.svg?label=lazy_static
-[rand-badge]: https://badge-cache.kominick.com/crates/v/rand.svg?label=rand
+[lazy_static-badge]: http://localhost:3000/crates/v/lazy_static.svg?label=lazy_static
+[rand-badge]: http://localhost:3000/crates/v/rand.svg?label=rand
 [rand]: https://docs.rs/rand/
-[std-badge]: https://badge-cache.kominick.com/badge/std-1.17.0-blue.svg
+[std-badge]: http://localhost:3000/badge/std-1.17.0-blue.svg
 [std]: https://doc.rust-lang.org/std
 [regex]: https://docs.rs/regex/
-[regex-badge]: https://badge-cache.kominick.com/crates/v/regex.svg?label=regex
+[regex-badge]: http://localhost:3000/crates/v/regex.svg?label=regex
 [memmap]: https://docs.rs/memmap/
-[memmap-badge]: https://badge-cache.kominick.com/crates/v/memmap.svg?label=memmap
+[memmap-badge]: http://localhost:3000/crates/v/memmap.svg?label=memmap
 
 <!-- API links -->
 

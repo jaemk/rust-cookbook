@@ -236,24 +236,24 @@ fn run() -> Result<()> {
 
 <!-- Categories -->
 
-[cat-command-line-badge]: https://badge-cache.kominick.com/badge/command_line--x.svg?style=social
+[cat-command-line-badge]: http://localhost:3000/badge/command_line--x.svg?style=social
 [cat-command-line]: https://crates.io/categories/command-line-interface
-[cat-compression-badge]: https://badge-cache.kominick.com/badge/compression--x.svg?style=social
+[cat-compression-badge]: http://localhost:3000/badge/compression--x.svg?style=social
 [cat-compression]: https://crates.io/categories/compression
-[cat-filesystem-badge]: https://badge-cache.kominick.com/badge/filesystem--x.svg?style=social
+[cat-filesystem-badge]: http://localhost:3000/badge/filesystem--x.svg?style=social
 [cat-filesystem]: https://crates.io/categories/filesystem
 
 <!-- Crates -->
 
-[clap-badge]: https://badge-cache.kominick.com/crates/v/clap.svg?label=clap
+[clap-badge]: http://localhost:3000/crates/v/clap.svg?label=clap
 [clap]: https://docs.rs/clap/
-[flate2-badge]: https://badge-cache.kominick.com/crates/v/flate2.svg?label=flate2
+[flate2-badge]: http://localhost:3000/crates/v/flate2.svg?label=flate2
 [flate2]: https://docs.rs/flate2/
-[tar-badge]: https://badge-cache.kominick.com/crates/v/tar.svg?label=tar
+[tar-badge]: http://localhost:3000/crates/v/tar.svg?label=tar
 [tar]: https://docs.rs/tar/
-[tempdir-badge]: https://badge-cache.kominick.com/crates/v/tempdir.svg?label=tempdir
+[tempdir-badge]: http://localhost:3000/crates/v/tempdir.svg?label=tempdir
 [tempdir]: https://docs.rs/tempdir/
-[walkdir-badge]: https://badge-cache.kominick.com/crates/v/walkdir.svg?label=walkdir
+[walkdir-badge]: http://localhost:3000/crates/v/walkdir.svg?label=walkdir
 [walkdir]: https://docs.rs/walkdir/
 
 <!-- Reference -->
